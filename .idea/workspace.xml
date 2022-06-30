@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9be1c19b-6d4c-415f-9c8d-67c0642210eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HeaderAmazonSitePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AmazonHeaderSiteTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestForObjectClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMathOperMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMathOperMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MethodsObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MethodsObjectTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MathOperDivide/MathOperMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MathOperDivide/MathOperMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestMathOper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestMathOperSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AmazonHeaderSiteTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AmazonHeaderSiteTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestForObjectClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestMathOperMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestMathOperMultiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testMaven.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testMaven.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +30,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.15.1/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/MethodsObjectTest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,11 +53,12 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;ALL&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -66,21 +70,17 @@
       <recent name="C:\Users\HyreVal\IdeaProjects\MyTest2\src" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="TestMathOperSum" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/HyreVal/IdeaProjects/MyTest2/testMaven.xml">
-    <configuration name="AmazonHeaderSiteTests.customerServicesHeaderBtnTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MethodsObjectTest">
+    <configuration name="MethodsObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodsObjectTest" />
       <module name="MyTest2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AmazonHeaderSiteTests" />
-      <option name="METHOD_NAME" value="customerServicesHeaderBtnTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,30 +90,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AmazonHeaderSiteTests" />
       <option name="METHOD_NAME" value="giftListHeaderBtnTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AmazonHeaderSiteTests.registryHeaderBtnTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MyTest2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AmazonHeaderSiteTests" />
-      <option name="METHOD_NAME" value="registryHeaderBtnTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AmazonHeaderSiteTests.sellHeaderBtnTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MyTest2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AmazonHeaderSiteTests" />
-      <option name="METHOD_NAME" value="sellHeaderBtnTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -131,13 +107,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMathOperMinus" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyTest2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMathOperMinus" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMathOperMinus.chekOperMinus2_1_Equals" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyTest2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMathOperMinus" />
+      <option name="METHOD_NAME" value="chekOperMinus2_1_Equals" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodsObjectTest" />
         <item itemvalue="TestNG.C:/Users/HyreVal/IdeaProjects/MyTest2/testMaven.xml" />
-        <item itemvalue="TestNG.AmazonHeaderSiteTests.sellHeaderBtnTest" />
+        <item itemvalue="TestNG.TestMathOperMinus" />
+        <item itemvalue="TestNG.TestMathOperMinus.chekOperMinus2_1_Equals" />
         <item itemvalue="TestNG.AmazonHeaderSiteTests.giftListHeaderBtnTest" />
-        <item itemvalue="TestNG.AmazonHeaderSiteTests.registryHeaderBtnTest" />
-        <item itemvalue="TestNG.AmazonHeaderSiteTests.customerServicesHeaderBtnTest" />
       </list>
     </recent_temporary>
   </component>
