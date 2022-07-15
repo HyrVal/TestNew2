@@ -4,9 +4,9 @@
 <suite name="Test!">
     <test name = "mathtest">
            <classes>
-                <class name = "TestMathOperSum" />
-                <class name = "TestMathOperMinus" />
-                <class name = "TestMathOperMultiply" />
+<!--                <class name = "TestMathOperSum" />-->
+<!--                <class name = "TestMathOperMinus" />-->
+<!--                <class name = "TestMathOperMultiply" />-->
                 <class name="AmazonHeaderSiteTests" />
 
             </classes>

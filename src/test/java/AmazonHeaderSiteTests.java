@@ -20,7 +20,9 @@ public class AmazonHeaderSiteTests extends TestInit{
     public void todayDealsHeaderBtnTest (){
 
        headerAmazonSitePage.getTodayDeals().click();
-        Assert.assertTrue(driver.getCurrentUrl().contains("https://www.amazon.com/gp/goldbox?ref_=nav_cs_gb"));
+//        Assert.assertTrue(driver.getCurrentUrl().contains("https://www.amazon.com/gp/goldbox?ref_=nav_cs_gb"));
+        Assert.assertTrue(driver.getCurrentUrl().contains("bad locator"));
+
     }
 
     @Test
