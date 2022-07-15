@@ -7,8 +7,6 @@
     <list default="true" id="9be1c19b-6d4c-415f-9c8d-67c0642210eb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AmazonHeaderSiteTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AmazonHeaderSiteTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testMaven.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testMaven.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
