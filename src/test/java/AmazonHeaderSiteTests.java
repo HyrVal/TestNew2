@@ -1,4 +1,3 @@
-import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -11,8 +10,8 @@ public class AmazonHeaderSiteTests extends TestInit{
     headerAmazonSitePage = new HeaderAmazonSitePage(driver);
     headerAmazonSitePage.getSite();
     sleep(3);
-    if (headerAmazonSitePage.getChengesAdressWind().size() > 0) {
-        headerAmazonSitePage.getChengesAdressWind().get(0).click();
+    if (headerAmazonSitePage.getChengAddressWind().size() > 0) {
+        headerAmazonSitePage.getChengAddressWind().get(0).click();
     }
     sleep(1);
 }

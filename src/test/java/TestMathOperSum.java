@@ -18,11 +18,11 @@ public class TestMathOperSum {
             Assert.assertEquals(mathOperSum.doItSum(2, 3), 5);
         }
     @Test
-    public void chekOperSum2_2_True(){
+        public void chekOperSum2_2_True(){
         Assert.assertEquals(mathOperSum.doItSum(4, 3), 7);
     }
         @Test
-        public void chekOperSum2_1_False(){
+    public void chekOperSum2_1_False(){
             Assert.assertFalse(mathOperSum.doItSum(2, 2)== 5);
         }
     @Test
@@ -41,11 +41,10 @@ public class TestMathOperSum {
     public void chekOperSum3_1_True(){
             Assert.assertTrue(mathOperSum.doItSum(2, 3,4)== 9);
     }
-  @Test
+    @Test
     public void chekOperSum3_2_True(){
             Assert.assertTrue(mathOperSum.doItSum(2, 5,4)== 11);
     }
-
     @Test
     public void chekOperSum3_1_False() {
         Assert.assertNotEquals(mathOperSum.doItSum(2, 3, 4), 6);

@@ -15,9 +15,9 @@ public class TestInit {
         driver.manage().window().maximize();
     }
 
-    public void sleep(int sekonds) {
+    public void sleep(int seconds) {
         try {
-            Thread.sleep(sekonds * 100);
+            Thread.sleep(seconds * 10);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

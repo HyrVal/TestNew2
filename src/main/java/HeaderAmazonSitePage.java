@@ -14,7 +14,7 @@ public class HeaderAmazonSitePage extends BasePage{
         driver.get("https://www.amazon.com/");
     }
 
-    public List<WebElement> getChengesAdressWind() {
+    public List<WebElement> getChengAddressWind() {
         return driver.findElements(By.xpath("//span[@class='a-button a-spacing-top-base a-button-base " +
                 "glow-toaster-button glow-toaster-button-dismiss']"));
     }
