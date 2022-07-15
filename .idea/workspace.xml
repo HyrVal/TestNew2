@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9be1c19b-6d4c-415f-9c8d-67c0642210eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HeaderAmazonSitePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MethodsObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AmazonHeaderSiteTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MethodsObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMathOperMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMathOperMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMathOperSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MathOperDivide/MathOperMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MathOperDivide/MathOperMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestMathOper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestMathOper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testMaven.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testMaven.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
