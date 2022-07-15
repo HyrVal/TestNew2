@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9be1c19b-6d4c-415f-9c8d-67c0642210eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HeaderAmazonSitePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MethodsObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AmazonHeaderSiteTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MethodsObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMathOperMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMathOperMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestMathOperSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MathOperDivide/MathOperMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MathOperDivide/MathOperMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestMathOper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestMathOper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AmazonHeaderSiteTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AmazonHeaderSiteTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testMaven.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testMaven.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,10 +71,33 @@
       <recent name="TestMathOperSum" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/HyreVal/IdeaProjects/MyTest2/testMaven.xml">
+  <component name="RunManager" selected="TestNG.AmazonHeaderSiteTests">
     <configuration name="MethodsObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodsObjectTest" />
       <module name="MyTest2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonHeaderSiteTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyTest2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AmazonHeaderSiteTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonHeaderSiteTests.todayDealsHeaderBtnTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyTest2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AmazonHeaderSiteTests" />
+      <option name="METHOD_NAME" value="todayDealsHeaderBtnTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,29 +106,6 @@
       <module name="MyTest2" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testMaven.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMathOperMinus" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MyTest2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMathOperMinus" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMathOperMinus.chekOperMinus2_1_Equals" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MyTest2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMathOperMinus" />
-      <option name="METHOD_NAME" value="chekOperMinus2_1_Equals" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -136,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AmazonHeaderSiteTests" />
+        <item itemvalue="TestNG.AmazonHeaderSiteTests.todayDealsHeaderBtnTest" />
         <item itemvalue="TestNG.C:/Users/HyreVal/IdeaProjects/MyTest2/testMaven.xml" />
         <item itemvalue="TestNG.TestMathOper.chekOperSum2Equals" />
         <item itemvalue="Application.MethodsObjectTest" />
-        <item itemvalue="TestNG.TestMathOperMinus" />
-        <item itemvalue="TestNG.TestMathOperMinus.chekOperMinus2_1_Equals" />
       </list>
     </recent_temporary>
   </component>
